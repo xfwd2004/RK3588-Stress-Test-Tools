@@ -1,0 +1,738 @@
+RK3588 Stress Test Log
+Start: 2026年 09月 28日 星期一 08:37:49 UTC
+
+================================
+TIME:
+2026-09-28 08:37:49
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0:  0%, Core1:  0%, Core2:  0%,
+
+
+TEMP:
+soc-thermal:49C bigcore0-thermal:50C bigcore1-thermal:51C littlecore-thermal:49C center-thermal:46C gpu-thermal:46C npu-thermal:47C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:37:52
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 68%, Core1: 73%, Core2: 75%,
+
+
+TEMP:
+soc-thermal:50C bigcore0-thermal:52C bigcore1-thermal:52C littlecore-thermal:51C center-thermal:49C gpu-thermal:48C npu-thermal:49C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:37:54
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 57%, Core1: 81%, Core2: 76%,
+
+
+TEMP:
+soc-thermal:51C bigcore0-thermal:53C bigcore1-thermal:52C littlecore-thermal:52C center-thermal:49C gpu-thermal:48C npu-thermal:49C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:37:57
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 78%, Core1: 71%, Core2: 78%,
+
+
+TEMP:
+soc-thermal:51C bigcore0-thermal:53C bigcore1-thermal:52C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:49C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:00
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 78%, Core1: 81%, Core2: 72%,
+
+
+TEMP:
+soc-thermal:51C bigcore0-thermal:53C bigcore1-thermal:53C littlecore-thermal:52C center-thermal:49C gpu-thermal:48C npu-thermal:49C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:03
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 77%, Core1: 72%, Core2: 72%,
+
+
+TEMP:
+soc-thermal:51C bigcore0-thermal:53C bigcore1-thermal:53C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:49C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:05
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 82%, Core1: 68%, Core2: 81%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:53C bigcore1-thermal:53C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:49C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:08
+
+CPU:
+98.1 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 67%, Core1: 72%, Core2: 83%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:53C bigcore1-thermal:53C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:11
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 60%, Core1: 62%, Core2: 73%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:53C bigcore1-thermal:53C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:13
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 83%, Core1: 63%, Core2: 83%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:53C bigcore1-thermal:54C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:16
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 79%, Core1: 71%, Core2: 79%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:53C bigcore1-thermal:54C littlecore-thermal:52C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:19
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 77%, Core1: 80%, Core2: 88%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:22
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 66%, Core1: 75%, Core2: 89%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:53C bigcore1-thermal:53C littlecore-thermal:53C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:24
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 53%, Core1: 84%, Core2: 78%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:53C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:27
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 62%, Core1: 68%, Core2: 69%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:53C littlecore-thermal:53C center-thermal:49C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:30
+
+CPU:
+97.7 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 67%, Core1: 68%, Core2: 72%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:32
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 75%, Core1: 67%, Core2: 74%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:52C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:35
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 76%, Core1: 74%, Core2: 81%,
+
+
+TEMP:
+soc-thermal:52C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:38
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 80%, Core1: 69%, Core2: 76%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:40
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 73%, Core1: 59%, Core2: 72%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:43
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 74%, Core1: 72%, Core2: 81%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:55C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:46
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 76%, Core1: 66%, Core2: 80%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:48
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 75%, Core1: 82%, Core2: 77%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:55C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:51
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 68%, Core1: 81%, Core2: 73%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:54C littlecore-thermal:54C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:54
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 75%, Core1: 61%, Core2: 79%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:54C bigcore1-thermal:55C littlecore-thermal:53C center-thermal:51C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:38:57
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 83%, Core1: 67%, Core2: 92%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:55C littlecore-thermal:54C center-thermal:51C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:39:00
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 63%, Core1: 65%, Core2: 75%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:55C littlecore-thermal:54C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:39:02
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 90%, Core1: 85%, Core2: 79%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:39:05
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 64%, Core1: 74%, Core2: 75%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:39:08
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 64%, Core1: 59%, Core2: 77%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:54C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:50C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:39:11
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 81%, Core1: 77%, Core2: 76%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:54C littlecore-thermal:54C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+
+
+================================
+TIME:
+2026-09-28 08:39:13
+
+CPU:
+100 %
+
+MEM:
+ %
+
+GPU_FREQ:
+
+
+NPU:
+NPU load:  Core0: 82%, Core1: 60%, Core2: 76%,
+
+
+TEMP:
+soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:55C littlecore-thermal:53C center-thermal:50C gpu-thermal:49C npu-thermal:51C 
+
+================================
+

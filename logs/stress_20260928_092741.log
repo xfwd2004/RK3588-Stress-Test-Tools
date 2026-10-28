@@ -1,0 +1,9 @@
+========================================
+RK3588 Stress Test
+START: 2026年 09月 28日 星期一 09:27:41 UTC
+========================================
+2026-09-28 09:27:41 | CPU:71.4% | MEM:% | GPU:1@300MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:49C big0:51C big1:52C center:48C gpu:47C npu:49C
+2026-09-28 09:27:47 | CPU:100.0% | MEM:% | GPU:100@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:56C big1:56C center:52C gpu:52C npu:52C
+2026-09-28 09:27:53 | CPU:100.0% | MEM:% | GPU:12@300MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:52C gpu:52C npu:53C
+2026-09-28 09:27:59 | CPU:94.4% | MEM:% | GPU:95@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:53C gpu:53C npu:53C
+2026-09-28 09:28:04 | CPU:100.0% | MEM:% | GPU:99@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:52C gpu:51C npu:52C

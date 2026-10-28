@@ -1,0 +1,17 @@
+====================================
+RK3588 Stress Test Log
+START: 2026年 09月 28日 星期一 09:15:27 UTC
+====================================
+
+2026-09-28 09:15:27 | CPU:25% | MEM:2.8% | GPU:1%@300MHz | NPU:   C0:  0%  C1:  0%  C2:  0%@1000MHz | TEMP:soc-thermal:53C bigcore0-thermal:55C bigcore1-thermal:56C littlecore-thermal:54C center-thermal:50C gpu-thermal:49C npu-thermal:52C 
+2026-09-28 09:15:31 | CPU:100% | MEM:16.8% | GPU:91%@1000MHz | NPU:   C0: 88%  C1: 76%  C2: 73%@1000MHz | TEMP:soc-thermal:58C bigcore0-thermal:59C bigcore1-thermal:59C littlecore-thermal:58C center-thermal:56C gpu-thermal:55C npu-thermal:56C 
+2026-09-28 09:15:35 | CPU:100% | MEM:36.2% | GPU:100%@1000MHz | NPU:   C0: 87%  C1: 81%  C2: 79%@1000MHz | TEMP:soc-thermal:59C bigcore0-thermal:60C bigcore1-thermal:60C littlecore-thermal:59C center-thermal:56C gpu-thermal:56C npu-thermal:57C 
+2026-09-28 09:15:40 | CPU:100% | MEM:52.9% | GPU:100%@1000MHz | NPU:   C0: 75%  C1: 85%  C2: 88%@1000MHz | TEMP:soc-thermal:59C bigcore0-thermal:60C bigcore1-thermal:61C littlecore-thermal:59C center-thermal:57C gpu-thermal:56C npu-thermal:57C 
+2026-09-28 09:15:44 | CPU:100% | MEM:72.7% | GPU:94%@1000MHz | NPU:   C0: 71%  C1: 84%  C2: 87%@1000MHz | TEMP:soc-thermal:59C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:60C center-thermal:57C gpu-thermal:56C npu-thermal:58C 
+2026-09-28 09:15:47 | CPU:100% | MEM:85.1% | GPU:80%@1000MHz | NPU:   C0: 74%  C1: 87%  C2: 87%@1000MHz | TEMP:soc-thermal:60C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:60C center-thermal:57C gpu-thermal:57C npu-thermal:58C 
+2026-09-28 09:15:51 | CPU:66.6% | MEM:85.0% | GPU:100%@1000MHz | NPU:   C0: 62%  C1: 64%  C2: 76%@1000MHz | TEMP:soc-thermal:59C bigcore0-thermal:60C bigcore1-thermal:61C littlecore-thermal:59C center-thermal:57C gpu-thermal:56C npu-thermal:57C 
+2026-09-28 09:15:54 | CPU:100% | MEM:85.1% | GPU:98%@1000MHz | NPU:   C0: 59%  C1: 56%  C2: 81%@1000MHz | TEMP:soc-thermal:59C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:60C center-thermal:57C gpu-thermal:55C npu-thermal:57C 
+2026-09-28 09:15:58 | CPU:100% | MEM:85.1% | GPU:95%@1000MHz | NPU:   C0: 75%  C1: 84%  C2: 91%@1000MHz | TEMP:soc-thermal:60C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:60C center-thermal:57C gpu-thermal:56C npu-thermal:58C 
+2026-09-28 09:16:02 | CPU:93.7% | MEM:85.0% | GPU:81%@300MHz | NPU:   C0: 76%  C1: 70%  C2: 83%@1000MHz | TEMP:soc-thermal:60C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:61C center-thermal:57C gpu-thermal:56C npu-thermal:58C 
+2026-09-28 09:16:06 | CPU:100% | MEM:85.1% | GPU:76%@1000MHz | NPU:   C0: 78%  C1: 84%  C2: 93%@1000MHz | TEMP:soc-thermal:60C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:61C center-thermal:57C gpu-thermal:56C npu-thermal:58C 
+2026-09-28 09:16:09 | CPU:100% | MEM:85.1% | GPU:64%@1000MHz | NPU:   C0: 77%  C1: 68%  C2: 77%@1000MHz | TEMP:soc-thermal:61C bigcore0-thermal:61C bigcore1-thermal:61C littlecore-thermal:61C center-thermal:57C gpu-thermal:56C npu-thermal:58C 

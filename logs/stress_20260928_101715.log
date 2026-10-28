@@ -1,0 +1,11 @@
+========================================
+RK3588 Stress Test
+START: 2026年 09月 28日 星期一 10:17:15 UTC
+========================================
+2026-09-28 10:17:15 | CPU:72.7% | MEM:2.9% | GPU:0@300MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:49C big0:52C big1:52C center:47C gpu:47C npu:49C
+2026-09-28 10:17:21 | CPU:100.0% | MEM:39.9% | GPU:100@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:56C big1:56C center:52C gpu:52C npu:52C
+2026-09-28 10:17:27 | CPU:100.0% | MEM:77.6% | GPU:31@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:53C gpu:53C npu:53C
+2026-09-28 10:17:32 | CPU:100.0% | MEM:83.6% | GPU:95@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:53C gpu:53C npu:53C
+2026-09-28 10:17:38 | CPU:100.0% | MEM:83.6% | GPU:94@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:52C gpu:52C npu:53C
+2026-09-28 10:17:44 | CPU:100.0% | MEM:83.6% | GPU:95@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:55C big0:57C big1:57C center:52C gpu:51C npu:52C
+2026-09-28 10:17:49 | CPU:100.0% | MEM:83.6% | GPU:100@1000MHz | NPU: C0: 0% C1: 0% C2: 0%@1000MHz | TEMP:soc:56C big0:57C big1:57C center:53C gpu:52C npu:53C

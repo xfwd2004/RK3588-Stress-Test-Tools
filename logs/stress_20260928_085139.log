@@ -1,0 +1,2092 @@
+RK3588 Stress Test
+Start: 2026年 09月 28日 星期一 08:51:39 UTC
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:39
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 1@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0:  0%, Core1:  0%, Core2:  0%,
+
+
+TEMP:
+
+soc-thermal: 55C
+bigcore0-thermal: 57C
+bigcore1-thermal: 57C
+littlecore-thermal: 56C
+center-thermal: 51C
+gpu-thermal: 50C
+npu-thermal: 52C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:42
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 66@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 11%, Core1:  6%, Core2: 12%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 58C
+bigcore1-thermal: 59C
+littlecore-thermal: 57C
+center-thermal: 54C
+gpu-thermal: 54C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:45
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 79@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 88%, Core1: 89%, Core2: 84%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 55C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:48
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 100@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 75%, Core1: 75%, Core2: 77%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 55C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:51
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 78@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 85%, Core1: 76%, Core2: 80%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 55C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:54
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 75@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 92%, Core1: 70%, Core2: 88%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 55C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:56
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 36@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 85%, Core1: 64%, Core2: 76%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:51:58
+
+
+CPU LOAD:
+98.5%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 92@1000000000Hz
+FREQ : 700 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 10%, Core1: 16%, Core2: 16%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 55C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:02
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 35@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 68%, Core1: 71%, Core2: 79%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 56C
+gpu-thermal: 55C
+npu-thermal: 57C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:04
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 75@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 85%, Core1: 82%, Core2: 82%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 56C
+gpu-thermal: 55C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:07
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 47@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 86%, Core1: 72%, Core2: 75%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:10
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 81@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 61%, Core1: 70%, Core2: 67%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:13
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 70@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 74%, Core1: 78%, Core2: 71%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:16
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 71@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 84%, Core1: 81%, Core2: 90%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:19
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 87@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 32%, Core1: 38%, Core2: 36%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:22
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 87@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 74%, Core1: 71%, Core2: 84%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 59C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 55C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:25
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 70@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 82%, Core1: 86%, Core2: 83%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:27
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 99@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 82%, Core1: 85%, Core2: 89%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:30
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 88@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0:  7%, Core1:  2%, Core2:  9%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:33
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 81@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 55%, Core1: 66%, Core2: 83%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:36
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 46@1000000000Hz
+FREQ : 1000 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 75%, Core1: 63%, Core2: 77%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:39
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 82%, Core1: 78%, Core2: 76%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 54C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:42
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 81%, Core1: 77%, Core2: 78%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:45
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 85%, Core1: 84%, Core2: 80%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 54C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:48
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 24%, Core1: 26%, Core2: 27%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:51
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 74%, Core1: 82%, Core2: 75%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:53
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 73%, Core1: 64%, Core2: 79%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 54C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:56
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 70%, Core1: 80%, Core2: 74%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:52:58
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 64%, Core1: 71%, Core2: 74%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:01
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 59%, Core1: 79%, Core2: 77%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:04
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 62%, Core1: 76%, Core2: 69%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:07
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 80%, Core1: 83%, Core2: 75%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:10
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 73%, Core1: 83%, Core2: 81%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:12
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 48%, Core1: 59%, Core2: 53%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:15
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 70%, Core1: 60%, Core2: 74%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:18
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 84%, Core1: 75%, Core2: 74%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:21
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 80%, Core1: 70%, Core2: 78%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:24
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 65%, Core1: 79%, Core2: 68%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:26
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 39%, Core1: 43%, Core2: 45%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:29
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 77%, Core1: 79%, Core2: 87%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:32
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 82%, Core1: 85%, Core2: 91%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:35
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 45%, Core1: 42%, Core2: 37%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 55C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:38
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 77%, Core1: 90%, Core2: 73%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:40
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 66%, Core1: 81%, Core2: 75%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:43
+
+
+CPU LOAD:
+94.1%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 38%, Core1: 38%, Core2: 37%,
+
+
+TEMP:
+
+soc-thermal: 59C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:46
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 67%, Core1: 73%, Core2: 76%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:48
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 78%, Core1: 63%, Core2: 78%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:51
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 14%, Core1: 12%, Core2: 17%,
+
+
+TEMP:
+
+soc-thermal: 57C
+bigcore0-thermal: 59C
+bigcore1-thermal: 59C
+littlecore-thermal: 58C
+center-thermal: 54C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:55
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 84%, Core1: 79%, Core2: 73%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:53:57
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 80%, Core1: 84%, Core2: 76%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:54:01
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0:  0%, Core1:  0%, Core2:  0%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 59C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 53C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:54:05
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 69%, Core1: 84%, Core2: 72%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:54:08
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 84%, Core1: 85%, Core2: 72%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:54:10
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 69%, Core1: 64%, Core2: 72%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 59C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 56C
+
+====================================================
+
+
+====================================================
+RK3588 Stress Monitor
+
+TIME:
+2026-09-28 08:54:13
+
+
+CPU LOAD:
+100%
+
+
+MEM:
+%
+
+
+GPU:
+LOAD : 0@300000000Hz
+FREQ : 300 MHz
+
+
+NPU:
+FREQ : 1000 MHz
+NPU load:  Core0: 75%, Core1: 82%, Core2: 79%,
+
+
+TEMP:
+
+soc-thermal: 58C
+bigcore0-thermal: 60C
+bigcore1-thermal: 60C
+littlecore-thermal: 58C
+center-thermal: 55C
+gpu-thermal: 54C
+npu-thermal: 57C
+
+====================================================
+
